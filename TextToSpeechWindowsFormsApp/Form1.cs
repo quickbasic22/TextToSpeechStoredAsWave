@@ -47,6 +47,9 @@ namespace TextToSpeechWindowsFormsApp
 
             m_SoundPlayer.Play();
 
+            System.Diagnostics.Process.Start(dir);
+
+
             newvoice.Dispose();
 
         }
