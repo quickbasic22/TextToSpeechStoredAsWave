@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\bin\Debug\TextToSpeechWindowsFormsApp.exe.config
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\bin\Debug\TextToSpeechWindowsFormsApp.exe
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\bin\Debug\TextToSpeechWindowsFormsApp.pdb
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\obj\Debug\TextToSpeechWindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\obj\Debug\TextToSpeechWindowsFormsApp.Form1.resources
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\obj\Debug\TextToSpeechWindowsFormsApp.Properties.Resources.resources
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\obj\Debug\TextToSpeechWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\obj\Debug\TextToSpeechWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\obj\Debug\TextToSpeechWindowsFormsApp.exe
+C:\Users\David\source\repos\TextToSpeechWindowsFormsApp\TextToSpeechWindowsFormsApp\obj\Debug\TextToSpeechWindowsFormsApp.pdb
